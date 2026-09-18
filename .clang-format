@@ -1,0 +1,14 @@
+SortIncludes: Never
+BasedOnStyle: Microsoft
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Allman
+AllowShortFunctionsOnASingleLine: None
+ColumnLimit: 120
+SpaceBeforeParens: ControlStatements
+AlignAfterOpenBracket: Align
+AlignOperands: Align
+AlignTrailingComments: true
+ReferenceAlignment: Left
+PointerAlignment: Left
